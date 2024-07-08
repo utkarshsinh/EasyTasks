@@ -1,3 +1,4 @@
+![image](https://github.com/utkarshsinh/EasyTasks/assets/107430204/afb0c2bf-dbb1-4d55-8c00-5682f5ff5cb1)
 # Essentials
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
